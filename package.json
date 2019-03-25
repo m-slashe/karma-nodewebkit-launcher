@@ -23,7 +23,7 @@
     "async": "~0.2.10",
     "merge": ">=1.2.1"
     "ncp": "~0.5.0",
-    "nw": "~0.18.5"
+    "nw": "git+https:git@//github.com/m-slashe/npm-installer.git"
   },
   "peerDependencies": {
     "karma": ">=0.9"
